@@ -13,4 +13,5 @@ Suppose you are a DA in an e-wallet company, and you need to analyze the followi
 -	payment_report.csv (monthly payment volume of products)
 -	product.csv (product information)
 -	transactions.csv (transactions information)
-You need to perform Exploratory data analysis (EDA) of the datasets and then conduct the data wrangling.
+  
+You need to perform Exploratory Data Analysis (EDA) on the datasets and then conduct data wrangling.
