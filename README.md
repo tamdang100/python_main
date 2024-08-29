@@ -1,4 +1,4 @@
-##**Beside employing Python for my research projects, I have also conducted some data analytics projects using Python as follows.**
+## **Beside employing Python for my research projects, I have also conducted some data analytics projects using Python as follows.**
 
 # [**Mini Project 1**](https://github.com/tamdang100/python_projects)
 
