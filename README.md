@@ -5,3 +5,7 @@ Beside employing Python for my research projects, I also conduct some data analy
 - Check valid password 
 - Format & remove duplicates in an array
 - Calculate tax payable
+
+
+# [**Project 2**](https://github.com/tamdang100/python_project2)
+
